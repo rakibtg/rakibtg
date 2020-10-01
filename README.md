@@ -99,3 +99,5 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
 ### How to reach me: 
 **Email:** rakibtg@gmail.com <br/>
 **Twitter DM:** [@rakibtg](https://twitter.com/rakibtg)
+
+> Design is not just what it looks like and feels like. Design is how it works. ― Steve Jobs
