@@ -112,6 +112,56 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
     </tbody>
 </table>
 
+<table>
+    <thead>
+        <tr>
+            <th width="250" align="left">
+                <img src="https://secureservercdn.net/198.71.233.227/oby.5a9.myftpupload.com/wp-content/uploads/2020/04/b081219974087488317a277a192a08ac_youtube-logo-small-bseen-live_534-220.png"/>
+            </th>
+            <th width="520" align="left"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>About</td>
+            <td>I make programming videos on YouTube.</td>
+        </tr>
+        <tr>
+            <td>Channel</td>
+            <td><a href="https://youtube.com/rakibtg">youtube.com/rakibtg</a></td>
+        </tr>
+        <tr>
+            <td>Popular Videos</td>
+            <td>
+                <ul>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=kothp4eJfqg&t=2s" rel="nofollow">Getting started with Redux with React (19 min)</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=AFzLarIcHgE" rel="nofollow">Understanding React Hook (16 min)</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=hc3CSmw3L6I" rel="nofollow">Redux with React Hooks (15 min)</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=wfFw05TaBfM" rel="nofollow">React Snapshot Testing (11 min)</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=1aAOxwYMbZM" rel="nofollow">Understanding React Context (10 min)</a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=uOXA1SsamNo" rel="nofollow">Vuex Crash Course (26 min)</a>
+                    </li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Tech Stack</td>
+            <td>PHP</td>
+        </tr>
+    </tbody>
+</table>
+
 ### How to reach me: 
 **Email:** rakibtg@gmail.com <br/>
 **Twitter DM:** [@rakibtg](https://twitter.com/rakibtg)
