@@ -7,8 +7,8 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
 <table>
     <thead>
         <tr>
-            <th width="250">Docker Dashboard</th>
-            <th>A simple web based GUI for managing Docker containers and images.</th>
+            <th width="250" align="left">Docker Dashboard</th>
+            <th width="520" align="left">A simple web based GUI for managing Docker containers and images.</th>
         </tr>
     </thead>
     <tbody>
@@ -31,32 +31,71 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
     </tbody>
 </table>
 
-| Docker Dashboard | A simple web based GUI for managing Docker containers and images. |
-| :--- | --- |
-| Repository | [rakibtg/docker-web-gui](https://github.com/rakibtg/docker-web-gui) |
-| Ported to Electron | [rakibtg/Docker-Elementary](https://github.com/rakibtg/Docker-Elementary) |
-| Homepage | [dockerdashboard.github.io](https://dockerdashboard.github.io) |
-| Tech Stack | React, Redux, Redux Thunk, Electron, Express, Socket |
+<table>
+    <thead>
+        <tr>
+            <th width="250" align="left">React Native Instagram Clone</th>
+            <th width="520" align="left">A simple instagram clone using React Native</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/rakibtg/RN-Instagram">rakibtg/RN-Instagram</a></td>
+        </tr>
+        <tr>
+            <td>Tech Stack</td>
+            <td>React Native, Expo SDK, Redux</td>
+        </tr>
+    </tbody>
+</table>
 
-| React Native Instagram Clone | A simple instagram clone using React Native |
-| --- | --- |
-| Repository | [rakibtg/RN-Instagram](https://github.com/rakibtg/RN-Instagram) |
-| Tech Stack | React Native, Expo SDK, Redux |
+<table>
+    <thead>
+        <tr>
+            <th width="250" align="left">SleekDB</th>
+            <th width="520" align="left">Pure PHP based NoSQL database system to make your static data dynamic!</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/rakibtg/SleekDB">rakibtg/SleekDB</a></td>
+        </tr>
+        <tr>
+            <td>Homepage</td>
+            <td><a href="https://sleekdb.github.io/" rel="nofollow">sleekdb.github.io</a></td>
+        </tr>
+        <tr>
+            <td>Tech Stack</td>
+            <td>PHP</td>
+        </tr>
+    </tbody>
+</table>
 
-| SleekDB | Pure PHP based NoSQL database system to make your static data dynamic! |
-| --- | --- |
-| Repository | [rakibtg/SleekDB](https://github.com/rakibtg/SleekDB) |
-| Homepage | [sleekdb.github.io](https://sleekdb.github.io/) |
-| Tech Stack | PHP |
+<table>
+    <thead>
+        <tr>
+            <th width="250" align="left">Zincphp</th>
+            <th width="520" align="left">RESTful backend made intuitive by ZincPHP - A micro framework for PHP</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/getzincphp/zincphp">getzincphp/zincphp</a></td>
+        </tr>
+        <tr>
+            <td>Homepage</td>
+            <td><a href="https://getzincphp.github.io/" rel="nofollow">getzincphp.github.io</a></td>
+        </tr>
+        <tr>
+            <td>Tech Stack</td>
+            <td>PHP</td>
+        </tr>
+    </tbody>
+</table>
 
-| Zincphp | RESTful backend made intuitive by ZincPHP - A micro framework for PHP |
-| --- | --- |
-| Repository | [getzincphp/zincphp](https://github.com/getzincphp/zincphp) |
-| Homepage | [getzincphp.github.io](https://getzincphp.github.io/) |
-| Tech Stack | PHP |
-
-
-    
 ### 📫  How to reach me: 
-**Email:** rakibtg@gmail.com
+**Email:** rakibtg@gmail.com <br/>
 **Twitter DM:** [@rakibtg](https://twitter.com/rakibtg)
