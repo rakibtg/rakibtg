@@ -4,9 +4,9 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
 
 ### 🛠  Projects maintained by me:
 
-<table style="width: 100%;">
+<table>
     <thead>
-        <tr>
+        <tr width="200">
             <th>Docker Dashboard</th>
             <th>A simple web based GUI for managing Docker containers and images.</th>
         </tr>
