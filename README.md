@@ -6,8 +6,8 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
 
 <table>
     <thead>
-        <tr width="200">
-            <th>Docker Dashboard</th>
+        <tr>
+            <th width="250">Docker Dashboard</th>
             <th>A simple web based GUI for managing Docker containers and images.</th>
         </tr>
     </thead>
@@ -32,7 +32,7 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
 </table>
 
 | Docker Dashboard | A simple web based GUI for managing Docker containers and images. |
-|--- | --- |
+| :--- | --- |
 | Repository | [rakibtg/docker-web-gui](https://github.com/rakibtg/docker-web-gui) |
 | Ported to Electron | [rakibtg/Docker-Elementary](https://github.com/rakibtg/Docker-Elementary) |
 | Homepage | [dockerdashboard.github.io](https://dockerdashboard.github.io) |
