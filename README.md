@@ -1,6 +1,6 @@
-# Hello! I'm Hasan 👋 👨‍💻
+## Hello! I'm Hasan 👋 👨‍💻
 
-Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to bring positive impact on people lives with my work.
+Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to create a positive impact with my work.
 
 ### Projects maintained by me:
 
