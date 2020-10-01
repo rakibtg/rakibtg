@@ -4,11 +4,7 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
 
 ### 🛠  Projects maintained by me:
 
-**Docker Dashboard**<br/>
-
-A simple web based GUI for managing Docker containers and images.
-
-|||
+|Docker Dashboard|A simple web based GUI for managing Docker containers and images.|
 |--- | --- |
 | Repository | [rakibtg/docker-web-gui](https://github.com/rakibtg/docker-web-gui) |
 | Ported to Electron | [rakibtg/Docker-Elementary](https://github.com/rakibtg/Docker-Elementary)
