@@ -131,7 +131,7 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
             <td><a href="https://youtube.com/rakibtg">youtube.com/rakibtg</a></td>
         </tr>
         <tr>
-            <td>Popular Videos</td>
+            <td valign="top">Popular Videos</td>
             <td>
                 <ul>
                     <li>
@@ -154,10 +154,6 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
                     </li>
                 </ul>
             </td>
-        </tr>
-        <tr>
-            <td>Tech Stack</td>
-            <td>PHP</td>
         </tr>
     </tbody>
 </table>
