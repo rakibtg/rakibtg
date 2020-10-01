@@ -2,7 +2,7 @@
 
 Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to bring positive impact on people lives with my work.
 
-### 🛠  Projects maintained by me:
+### Projects maintained by me:
 
 <table>
     <thead>
@@ -96,6 +96,6 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
     </tbody>
 </table>
 
-### 📫  How to reach me: 
+### How to reach me: 
 **Email:** rakibtg@gmail.com <br/>
 **Twitter DM:** [@rakibtg](https://twitter.com/rakibtg)
