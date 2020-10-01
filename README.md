@@ -8,10 +8,14 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
     <thead>
         <tr>
             <th width="250" align="left">Docker Dashboard</th>
-            <th width="520" align="left">A simple web based GUI for managing Docker containers and images.</th>
+            <th width="520" align="left"></th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>About</td>
+            <td>A simple web based GUI for managing Docker containers and images.</td>
+        </tr>
         <tr>
             <td>Repository</td>
             <td><a href="https://github.com/rakibtg/docker-web-gui">rakibtg/docker-web-gui</a></td>
@@ -35,10 +39,14 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
     <thead>
         <tr>
             <th width="250" align="left">React Native Instagram Clone</th>
-            <th width="520" align="left">A simple instagram clone using React Native</th>
+            <th width="520" align="left"></th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>About</td>
+            <td>A simple instagram clone using React Native</td>
+        </tr>
         <tr>
             <td>Repository</td>
             <td><a href="https://github.com/rakibtg/RN-Instagram">rakibtg/RN-Instagram</a></td>
@@ -54,10 +62,14 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
     <thead>
         <tr>
             <th width="250" align="left">SleekDB</th>
-            <th width="520" align="left">Pure PHP based NoSQL database system to make your static data dynamic!</th>
+            <th width="520" align="left"></th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>About</td>
+            <td>Pure PHP based NoSQL database system to make your static data dynamic!</td>
+        </tr>
         <tr>
             <td>Repository</td>
             <td><a href="https://github.com/rakibtg/SleekDB">rakibtg/SleekDB</a></td>
@@ -77,10 +89,14 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
     <thead>
         <tr>
             <th width="250" align="left">Zincphp</th>
-            <th width="520" align="left">RESTful backend made intuitive by ZincPHP - A micro framework for PHP</th>
+            <th width="520" align="left"></th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>About</td>
+            <td>RESTful backend made intuitive by ZincPHP - A micro framework for PHP</td>
+        </tr>
         <tr>
             <td>Repository</td>
             <td><a href="https://github.com/getzincphp/zincphp">getzincphp/zincphp</a></td>
