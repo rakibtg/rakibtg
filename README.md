@@ -4,6 +4,33 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
 
 ### 🛠  Projects maintained by me:
 
+<table style="width: 100%;">
+    <thead>
+        <tr>
+            <th>Docker Dashboard</th>
+            <th>A simple web based GUI for managing Docker containers and images.</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Repository</td>
+            <td><a href="https://github.com/rakibtg/docker-web-gui">rakibtg/docker-web-gui</a></td>
+        </tr>
+        <tr>
+            <td>Ported to Electron</td>
+            <td><a href="https://github.com/rakibtg/Docker-Elementary">rakibtg/Docker-Elementary</a></td>
+        </tr>
+        <tr>
+            <td>Homepage</td>
+            <td><a href="https://dockerdashboard.github.io" rel="nofollow">dockerdashboard.github.io</a></td>
+        </tr>
+        <tr>
+            <td>Tech Stack</td>
+            <td>React, Redux, Redux Thunk, Electron, Express, Socket</td>
+        </tr>
+    </tbody>
+</table>
+
 | Docker Dashboard | A simple web based GUI for managing Docker containers and images. |
 |--- | --- |
 | Repository | [rakibtg/docker-web-gui](https://github.com/rakibtg/docker-web-gui) |
