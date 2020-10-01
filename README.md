@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hello! I'm Hasan 👋 👨‍💻
 
-<!--
-**rakibtg/rakibtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to bring positive impact on people lives with my work.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
