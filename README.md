@@ -135,7 +135,7 @@ Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to
             <td>
                 <ul>
                     <li>
-                        <a href="https://www.youtube.com/watch?v=kothp4eJfqg&t=2s" rel="nofollow">Getting started with Redux with React (19 min)</a>
+                        <a href="https://www.youtube.com/watch?v=kothp4eJfqg" rel="nofollow">Getting started with Redux with React (19 min)</a>
                     </li>
                     <li>
                         <a href="https://www.youtube.com/watch?v=AFzLarIcHgE" rel="nofollow">Understanding React Hook (16 min)</a>
