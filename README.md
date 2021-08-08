@@ -1,6 +1,7 @@
 ## Hello! I'm Hasan 👋 👨‍💻
 
-Software engineer from Dhaka, Bangladesh. An open-source enthusiast and loves to create a positive impact with my work.
+A software engineer from Dhaka, Bangladesh, currently living in Stockholm, Sweden. 
+An open-source enthusiast who wants to create a positive impact with his work.
 
 ### Projects maintained by me:
 
