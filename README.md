@@ -1,7 +1,6 @@
 ## Hello! I'm Hasan 👋 👨‍💻
 
-A software engineer from Dhaka, Bangladesh, currently living in Stockholm, Sweden. 
-An open-source enthusiast who wants to create a positive impact with his work.
+A software engineer from Dhaka, Bangladesh, currently residing in Stockholm, Sweden. An open-source enthusiast aiming to create a positive impact through his work.
 
 ### Projects maintained by me:
 
@@ -160,7 +159,7 @@ An open-source enthusiast who wants to create a positive impact with his work.
 </table>
 
 ### How to reach me: 
-**Email:** rakibtg@gmail.com <br/>
+**Email:** hi@rakibtg.com <br/>
 **Twitter DM:** [@rakibtg](https://twitter.com/rakibtg)
 
 > Design is not just what it looks like and feels like. Design is how it works. ― Steve Jobs
